@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 packages to &apos;170033_Della_Iteration_3/src&apos;&#x0D;&#x0A;- Original project: &apos;170033_Della_Iteration_2&apos;&#x0D;&#x0A;- Destination element: &apos;170033_Della_Iteration_3/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     170033_Della_Iteration_2/src/model&#x0D;&#x0A;     170033_Della_Iteration_2/src/persistence&#x0D;&#x0A;     170033_Della_Iteration_2/src/della&#x0D;&#x0A;     170033_Della_Iteration_2/src/control&#x0D;&#x0A;     170033_Della_Iteration_2/src/gui" description="Copy packages" destination="=170033_Della_Iteration_3/src" element1="/src&lt;model" element2="/src&lt;persistence" element3="/src&lt;della" element4="/src&lt;control" element5="/src&lt;gui" flags="589830" fragments="5" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1595436663582" version="1.0"/>
+</session>

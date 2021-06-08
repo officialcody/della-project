@@ -1,0 +1,22 @@
+package gui;
+
+/**
+ * <p>
+ * Title: ActionItemScreen
+ * </p>
+ *
+ * <p>
+ * Description: The Action Item Class
+ * </p>
+ *
+ * <p>
+ * Copyright: Copyright � 2005, 2006
+ * </p>
+ *
+ * @author Harry Sameshima; Modified by Lynn Robert Carter, Modified by Sparsh Goel 2020-02-08
+ * @version 1.01
+ */
+
+public class ConsoleScreen {
+	
+}

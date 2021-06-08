@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\COLLEGE\SEMISTER - 6\IDEAL INTERNSHIP\Della Submission\.metadata\.plugins\org.eclipse.jdt.core
+1329072952.index
+456218833.index
+3034136028.index
+2125412840.index
